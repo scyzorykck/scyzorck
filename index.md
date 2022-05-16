@@ -8,11 +8,12 @@
         font-family: "Comic Sans MS", "Comic Sans";
       }
     </style>
-    <title>LOLOLOLO</title>
+    <title>LOLOLOLO
+    XDDDDDDD</title>
   </head>
   <body>
-    <h1>uwu</h1>
-    <h2><input type="checkbox" class="catboy" />i am a catboy</h2>
+    <h1>uwu kurwy</h1>
+    <h2><input type="checkbox" class="catboy" />i am a catboy </h2>
     <a href="?ddd">ddd</a>
     <a href="?ddd2">ddd2</a>
     <a href="?corn">corn</a>
